@@ -1,0 +1,12 @@
+{
+  "name": "jbarke/wordpress-head-cleanup",
+  "keywords": [
+    "wordpress",
+    "plugin"
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.0",
+    "composer/installers": "v1.4.0"
+  }
+}
