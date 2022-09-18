@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WordPress head cleanup
  * Description: Remove RSS feeds, emoji support, WP generator and other unnecessary things from the WordPress `head` tag.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Jeffrey Barke
  * License: GPLv2 or later
  * @license https://www.gnu.org/licenses/gpl-2.0.html
